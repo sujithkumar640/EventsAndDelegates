@@ -1,0 +1,18 @@
+C:\Users\pallapas\Desktop\Technical Projects\Deligates and Events\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\pallapas\Desktop\Technical Projects\Deligates and Events\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\pallapas\Desktop\Technical Projects\Deligates and Events\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\pallapas\Desktop\Technical Projects\Deligates and Events\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\pallapas\Desktop\Technical Projects\Deligates and Events\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\pallapas\Desktop\Technical Projects\Deligates and Events\ConsoleApplication1\ConsoleApplication1\obj\Debug\DeligatesAndEvents.csprojResolveAssemblyReference.cache
+C:\Users\pallapas\Desktop\Technical Projects\Events and Deligates\DeligatesAndEvents\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\pallapas\Desktop\Technical Projects\Events and Deligates\DeligatesAndEvents\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\pallapas\Desktop\Technical Projects\Events and Deligates\DeligatesAndEvents\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\pallapas\Desktop\Technical Projects\Events and Deligates\DeligatesAndEvents\ConsoleApplication1\DeligatesAndEvents\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\pallapas\Desktop\Technical Projects\Events and Deligates\DeligatesAndEvents\ConsoleApplication1\DeligatesAndEvents\obj\Debug\ConsoleApplication1.exe
+C:\Users\pallapas\Desktop\Technical Projects\Events and Deligates\DeligatesAndEvents\ConsoleApplication1\DeligatesAndEvents\obj\Debug\ConsoleApplication1.pdb
+C:\Users\pallapas\Desktop\Technical Projects\Events and Deligates\DeligatesAndEvents\ConsoleApplication1\DeligatesAndEvents\bin\Debug\ConsoleApplication1.exe
+C:\Users\pallapas\Desktop\Technical Projects\Events and Deligates\DeligatesAndEvents\ConsoleApplication1\DeligatesAndEvents\bin\Debug\ConsoleApplication1.pdb
+C:\Users\pallapas\Desktop\Technical Projects\Events and Deligates\DeligatesAndEvents\ConsoleApplication1\DeligatesAndEvents\obj\Debug\DeligatesAndEvents.csprojResolveAssemblyReference.cache
+C:\Users\pallapas\Desktop\Technical Projects\EventsAndDelegates\EventsAndDelegates\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\pallapas\Desktop\Technical Projects\EventsAndDelegates\EventsAndDelegates\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\ConsoleApplication1.exe
+C:\Users\pallapas\Desktop\Technical Projects\EventsAndDelegates\EventsAndDelegates\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\ConsoleApplication1.pdb
