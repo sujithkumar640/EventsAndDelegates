@@ -1,4 +1,4 @@
-# DeligatesAndEvents
+# DelegatesAndEvents
 
 Events :
 	Events are mechanism to communicate between objects.
